@@ -40,7 +40,7 @@ Here's how you can format the certificates and awards for your GitHub profile:
 
 [Most Valuable Player Award](https://www.credly.com)
 
-<br><br>📫 Find me on LinkedIn<br>
+<br><br>📫 Find me on [LinkedIn](https://www.linkedin.com/in/r-l-chethan-kumar-98933b207/)<br>
 
 
 # 💻 Tech Stack:
