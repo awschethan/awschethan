@@ -10,12 +10,7 @@
  
   <!-- Tagline or Brief Description -->
   ### Cloud Engineer | Solution Architect | Cloud Enthusiast | Tech Explorer
-  
-  <!-- Social Media Badges -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-l-chethan-kumar-98933b207)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-  
+
 </div>
 I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technologies.
 <p>
@@ -92,13 +87,15 @@ I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technolo
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 
+## Social Media Badges
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-l-chethan-kumar-98933b207)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+  
+
 # 📊 GitHub Stats:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rlchethankumar&show_icons=true&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=awschethan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awschethan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=awschethan&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-github-username&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
