@@ -19,10 +19,11 @@
 </div>
 I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technologies.
 <p>
+  
 ☁️👨‍💻 Working @amazon. ✍️ Writing technical blogs on AWS and DevOps topics.
+</p>
 </div>
 
-Here's how you can format the certificates and awards for your GitHub profile:
 
 ### 🏆 AWS Certifications & Achievements
 ![GenAI Essentials](https://img.shields.io/badge/GenAI_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
