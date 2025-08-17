@@ -76,13 +76,11 @@ Here's how you can format the certificates and awards for your GitHub profile:
 ![CCNA](https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![CCNP](https://img.shields.io/badge/CCNP-00000F?style=for-the-badge&logo=cisco&logoColor=white)
 
-
 ## 🏆 Awards
-[All Rounder Award](https://www.credly.com)
-[Most Valuable Player Award](https://www.credly.com)
-![All Rounder Award](https://github.com/user-attachments/assets/57e34c00-d126-4814-9d03-84cce01a9510)
-
-
+<p align="left" style="display: inline-block;">
+  <img src="https://images.credly.com/size/680x680/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" width="100" height="100" alt="Most Valuable Player Award"/>&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/57e34c00-d126-4814-9d03-84cce01a9510" width="100" height="100" alt="All Rounder Award"/>
+</p>
 
 
 # 💻 Tech Stack:
