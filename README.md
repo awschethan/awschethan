@@ -4,11 +4,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/rlchethankumar?style=social)
 ![](https://profile-counter.glitch.me/rlchethankumar/count.svg)
 
-##
-<p align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/191574787?s=400&u=a57adb018ab7a502738240109fb1733b2445c6f5" style="border-radius:80%">
-</p>
-
   
   <!-- Name with Custom Styling -->
  ##  💫 Hi, This is Chethan 👋
