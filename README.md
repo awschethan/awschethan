@@ -62,7 +62,7 @@ Here's how you can format the certificates and awards for your GitHub profile:
 ![NSE3](https://img.shields.io/badge/NSE3-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 ![NSE4](https://img.shields.io/badge/NSE4-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 ## ☁️ Google Cloud
-[Prompt Design in Vertex AI Skill Badge](https://www.credly.com)
+![Prompt Design in Vertex AI](https://img.shields.io/badge/Google_Cloud-Prompt_Design_Vertex_AI-blue)
 
 ## 🔒 Juniper Networks
 ![JNCIA](https://img.shields.io/badge/JNCIA-84B135?style=for-the-badge&logo=Juniper-Networks&logoColor=white)
