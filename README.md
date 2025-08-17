@@ -29,28 +29,35 @@ I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technolo
 
 Here's how you can format the certificates and awards for your GitHub profile:
 
+## AWS Certifications and Learning Badges
+![GenAI Essentials](https://img.shields.io/badge/GenAI_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GenAI Technical](https://img.shields.io/badge/GenAI_Technical_Specialized-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Partner Technical](https://img.shields.io/badge/AWS_Partner_Technical_Accredited-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud Essentials](https://img.shields.io/badge/AWS_Knowledge_Cloud_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS_Cloud_Quest-Solutions_Architect](https://img.shields.io/badge/AWS_Cloud_Quest-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS_Cloud_Quest-Cloud_Practitioner](https://img.shields.io/badge/AWS_Cloud_Quest-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS_Cloud_Quest-Networking](https://img.shields.io/badge/AWS_Cloud_Quest-Networking-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## ☁️ Amazon Web Services (AWS)
-[AWS Partner: Generative AI Essentials](https://www.credly.com)
-
-[AWS Partner: Generative AI Technical – Specialized](https://www.credly.com)
-
-[AWS Partner: Technical Accredited](https://www.credly.com)
-
-[AWS Knowledge: Cloud Essentials](https://www.credly.com)
-
-[AWS Cloud Quest: Solutions Architect](https://www.credly.com)
-
-[AWS Cloud Quest: Cloud Practitioner](https://www.credly.com)
-
-[AWS Cloud Quest: Networking](https://www.credly.com)
-
-[AWS Certified Solutions Architect – Associate](https://www.credly.com)
 
 ## 👨‍💻 Subject Matter Expert
-[Route 53 (includes DNS) Subject Matter Expert](https://www.credly.com)
 
-[WAF Subject Matter Expert](https://www.credly.com)
+<!-- AWS Route 53&WAF SME Badge -->
+<p>
+  <img src="https://img.shields.io/badge/AWS_SME-Route_53_(DNS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_SME-WAF_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <br>
+  <small>***Issued by AWS Support Engineering***</small>  
+<br>
+  <img src="https://img.shields.io/badge/DNS_Expert-verified-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Service_Architecture-verified-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Technical_Troubleshooting-verified-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Web_Application_Firewall-verified-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Security_Expert-verified-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Technical_Troubleshooting-verified-success?style=flat-square"/>
+</p>
+
+
 
 ##  Fortinet 
 ![NSE4](https://img.shields.io/badge/NSE4-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
@@ -73,21 +80,20 @@ Here's how you can format the certificates and awards for your GitHub profile:
 
 
 
+
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<!-- Network Certifications/Skills Badges -->
-
-<!-- Juniper -->
 ![Juniper](https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=Juniper-Networks&logoColor=white)
 ![Firewall](https://img.shields.io/badge/SRX_Series-84B135?style=flat-square&logo=Juniper-Networks&logoColor=white)
 ![JUNOS](https://img.shields.io/badge/Junos_OS-84B135?style=flat-square&logo=Juniper-Networks&logoColor=white)
-
-<!-- Fortinet -->
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
+
 # 📊 GitHub Stats:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rlchethankumar&show_icons=true&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=awschethan&theme=dark&hide_border=false)<br/>
