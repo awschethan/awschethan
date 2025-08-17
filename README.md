@@ -5,13 +5,10 @@
 ![](https://profile-counter.glitch.me/rlchethankumar/count.svg)
 
 ##
-<div align="center">
-  
-  <!-- Profile Banner Image (optional) -->
-  <img src="your-banner-image-url" alt="banner" width="100%">
-  
-  <!-- Profile Image -->
-  <img src="your-profile-photo-url" alt="profile" width="200" height="200" style="border-radius: 50%;">
+<p align="center">
+  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/191574787?s=400&u=a57adb018ab7a502738240109fb1733b2445c6f5" style="border-radius:80%">
+</p>
+
   
   <!-- Name with Custom Styling -->
  ##  💫 Hi, This is Chethan 👋
