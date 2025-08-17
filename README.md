@@ -29,7 +29,7 @@ I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technolo
 
 Here's how you can format the certificates and awards for your GitHub profile:
 
-## AWS Certifications and Learning Badges
+### 🏆 AWS Certifications & Achievements
 ![GenAI Essentials](https://img.shields.io/badge/GenAI_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GenAI Technical](https://img.shields.io/badge/GenAI_Technical_Specialized-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -60,6 +60,9 @@ Here's how you can format the certificates and awards for your GitHub profile:
 
 
 ##  Fortinet 
+![NSE1](https://img.shields.io/badge/NSE1-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
+![NSE2](https://img.shields.io/badge/NSE2-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
+![NSE3](https://img.shields.io/badge/NSE3-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 ![NSE4](https://img.shields.io/badge/NSE4-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white)
 ## ☁️ Google Cloud
 [Prompt Design in Vertex AI Skill Badge](https://www.credly.com)
