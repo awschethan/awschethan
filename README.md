@@ -47,8 +47,8 @@ Here's how you can format the certificates and awards for your GitHub profile:
   <img src="https://img.shields.io/badge/AWS_SME-Route_53_(DNS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_SME-WAF_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <br>
-  <small>***Issued by AWS Support Engineering***</small>  
-<br>
+  <small><em><strong>Issued by AWS Support Engineering</strong></em></small>
+  <br>
   <img src="https://img.shields.io/badge/DNS_Expert-verified-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/Service_Architecture-verified-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/Technical_Troubleshooting-verified-success?style=flat-square"/>
