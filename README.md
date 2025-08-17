@@ -80,7 +80,7 @@ Here's how you can format the certificates and awards for your GitHub profile:
 ## 🏆 Awards
 [All Rounder Award](https://www.credly.com)
 [Most Valuable Player Award](https://www.credly.com)
-[All Rounder Award](https://github.com/user-attachments/assets/57e34c00-d126-4814-9d03-84cce01a9510)
+![All Rounder Award](https://github.com/user-attachments/assets/57e34c00-d126-4814-9d03-84cce01a9510)
 
 
 
