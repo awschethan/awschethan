@@ -17,7 +17,10 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
   
 </div>
-I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technologies. ☁️ Working @amazon<br><br>👨‍💻 Working @amazon. ✍️ Writing technical blogs on AWS and DevOps topics.
+I’m passionate about AWS Cloud, DevOps, Edge-Services and other Cloud Technologies.
+<p>
+☁️👨‍💻 Working @amazon. ✍️ Writing technical blogs on AWS and DevOps topics.
+</div>
 
 Here's how you can format the certificates and awards for your GitHub profile:
 
